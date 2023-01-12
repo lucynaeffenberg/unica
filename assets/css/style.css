@@ -47,3 +47,39 @@ body {
 .pb-20 {
 	padding-bottom: 20px;
 }
+
+.h-14 {
+	height: 14px;
+}
+
+.w-14 {
+	width: 14px;
+}
+
+.border {
+	border: 1px solid black;
+}
+
+.w-50 {
+	width: 60px;
+}
+
+.h-50 {
+	height: 60px;
+}
+
+.d-block {
+	display: block;
+}
+
+.align-items-center {
+	align-items: center;
+}
+
+.rotate-right-45 {
+	transform: rotate(45deg);
+}
+
+.rotate-left-45 {
+	transform: rotate(-45deg);
+}
