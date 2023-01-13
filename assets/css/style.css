@@ -1,5 +1,11 @@
+html {
+	font-family: "Rubik", sans-serif;
+	font-size: 14px;
+}
+
 body {
 	margin: 0;
+	line-height: 1.5;
 }
 
 .container {
@@ -48,6 +54,14 @@ body {
 	padding-bottom: 20px;
 }
 
+.pt-25 {
+	padding-top: 25px;
+}
+
+.pb-25 {
+	padding-bottom: 25px;
+}
+
 .h-14 {
 	height: 14px;
 }
@@ -60,12 +74,12 @@ body {
 	border: 1px solid black;
 }
 
-.w-50 {
-	width: 60px;
+.w-45 {
+	width: 45px;
 }
 
-.h-50 {
-	height: 60px;
+.h-45 {
+	height: 45px;
 }
 
 .d-block {
@@ -82,4 +96,38 @@ body {
 
 .rotate-left-45 {
 	transform: rotate(-45deg);
+}
+
+.border-color-light {
+	border-color: #d7d7d7;
+}
+
+.bg-navy {
+	background-color: #020032;
+}
+
+.text-white {
+	color: white;
+}
+
+.navbar-menu {
+	list-style-type: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	display: flex;
+	padding-left: 0;
+}
+
+.navbar-menu a {
+	color: white;
+	text-decoration: none;
+	padding: 25px 20px;
+	display: block;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 500;
+}
+
+.navbar-menu a:hover {
+	background: #f6783a;
 }
