@@ -118,6 +118,8 @@ body {
 	padding-left: 0;
 }
 
+
+
 .navbar-menu a {
 	color: white;
 	text-decoration: none;
@@ -130,4 +132,8 @@ body {
 
 .navbar-menu a:hover {
 	background: #f6783a;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
 }
