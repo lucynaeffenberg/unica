@@ -1,3 +1,16 @@
+:root {
+	--color-black: black;
+	--color-white: white;
+	--color-dark: #202020;
+	--color-light: #d7d7d7;
+	--color-orange: #f5783a;
+	--color-navy: #020032;
+
+	--container-wrapper-width: 1200px;
+	--container-width: 1140px;
+}
+
+
 html {
 	font-family: "Rubik", sans-serif;
 	font-size: 14px;
@@ -6,14 +19,15 @@ html {
 body {
 	margin: 0;
 	line-height: 1.5;
+	color: var(--color-dark);
 }
 
 .container-wrapper {
-	min-width: 1200px;
+	min-width: var(--container-wrapper-width);
 }
 
 .container {
-	width: 1140px;
+	width: var(--container-width);
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 30px;
@@ -93,7 +107,7 @@ body {
 }
 
 .border {
-	border: 1px solid black;
+	border: 1px solid var(--color-black);
 }
 
 .w-45 {
@@ -121,15 +135,15 @@ body {
 }
 
 .border-color-light {
-	border-color: #d7d7d7;
+	border-color: var(--color-light);
 }
 
 .bg-navy {
-	background-color: #020032;
+	background-color: var(--color-navy);
 }
 
 .text-white {
-	color: white;
+	color: var(--color-white);
 }
 
 .navbar-menu {
@@ -141,7 +155,7 @@ body {
 }
 
 .navbar-menu a {
-	color: white;
+	color: var(--color-white);
 	text-decoration: none;
 	padding: 25px 20px;
 	display: block;
@@ -151,7 +165,7 @@ body {
 }
 
 .navbar-menu a:hover {
-	background: #f6783a;
+	background: var(--color-orange);
 }
 
 .text-uppercase {
@@ -188,12 +202,12 @@ body {
 }
 
 .btn-orange {
-	background: #f6783a;
+	background: var(--color-orange);
 	color: white;
 }
 
 .text-orange {
-	color: #f6783a;
+	color: var(--color-orange);
 }
 
 .fs-md {
