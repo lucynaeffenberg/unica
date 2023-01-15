@@ -18,6 +18,10 @@
 	column-gap: 30px;
 }
 
+.row-gap-30 {
+	row-gap: 30px;
+}
+
 .flex-grow {
 	flex-grow: 1;
 }

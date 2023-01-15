@@ -1,0 +1,18 @@
+.flex-cols {
+	display: flex;
+	column-gap: 30px;
+	flex-wrap: wrap;
+}
+
+.flex-cols-2 > * {
+	width: calc( (100% - (1 * 30px)) / 2 );
+}
+
+.flex-cols-3 > * {
+	width: calc( (100% - (2 * 30px)) / 3 );
+}
+
+.flex-cols-4 > * {
+	width: calc( (100% - (3 * 30px)) / 4 );
+}
+
