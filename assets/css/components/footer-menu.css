@@ -1,0 +1,9 @@
+.footer-menu {
+	display: flex;
+	column-gap: 30px;
+	// flex-wrap: wrap;
+}
+
+.footer-menu > div {
+	width: calc( (100% - (3 * 30px)) / 4 );
+}

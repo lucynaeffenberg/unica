@@ -2,6 +2,10 @@
 	background-color: var(--color-navy);
 }
 
+.bg-white {
+	background-color: var(--color-white);
+}
+
 .bg-position-center {
 	background-position: center center;
 }

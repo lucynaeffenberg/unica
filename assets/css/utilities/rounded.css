@@ -2,3 +2,6 @@
 	border-radius: 50rem;
 }
 
+.rounded-circle {
+	border-radius: 50%;
+}

@@ -6,13 +6,21 @@
 	color: var(--color-orange);
 }
 
+.text-hover-orange:hover {
+	color: var(--color-orange);
+}
 
+.text-center {
+	text-align: center;
+}
 
 .text-uppercase {
 	text-transform: uppercase;
 }
 
-
+.text-decoration-none {
+	text-decoration: none;
+}
 
 .fs-md {
 	font-size: 1rem;
@@ -33,6 +41,9 @@
 }
 
 
+.lh-none {
+	line-height: 1;
+}
 
 .lh-small {
 	line-height: 1.2;

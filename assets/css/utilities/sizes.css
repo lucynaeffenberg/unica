@@ -6,11 +6,27 @@
 	height: 14px;
 }
 
+.w-40 {
+	width: 40px;
+}
+
+.h-40 {
+	height: 40px;
+}
+
 .w-45 {
 	width: 45px;
 }
 
 .h-45 {
 	height: 45px;
+}
+
+.w-70 {
+	width: 70px;
+}
+
+.h-70 {
+	height: 70px;
 }
 
