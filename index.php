@@ -13,7 +13,7 @@
 			<?php include('partials/header.html') ?>
 		</header>
 		<main>
-			<?php include('partials/banner.html') ?>
+			<?php include('partials/banner.php') ?>
 			<?php include('partials/counter.html') ?>
 			<?php include('partials/newsletter.html') ?>
 		</main>
