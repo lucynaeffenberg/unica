@@ -16,6 +16,7 @@
 		<main>
 			<?php include('partials/banner.php') ?>
 			<?php include('partials/counter.php') ?>
+			<?php include('partials/services.php') ?>
 			<?php include('partials/newsletter.php') ?>
 		</main>
 		<footer>
