@@ -10,12 +10,12 @@
 	justify-content: center;
 }
 
-.column-gap-30 {
-	column-gap: 30px;
-}
-
 .align-items-center {
 	align-items: center;
+}
+
+.column-gap-30 {
+	column-gap: 30px;
 }
 
 .flex-grow {
