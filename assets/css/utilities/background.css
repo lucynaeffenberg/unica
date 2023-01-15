@@ -1,0 +1,16 @@
+.bg-navy {
+	background-color: var(--color-navy);
+}
+
+.bg-position-center {
+	background-position: center center;
+}
+
+.bg-repeat-none {
+	background-repeat: no-repeat;
+}
+
+.bg-size-cover {
+	background-size: cover;
+}
+

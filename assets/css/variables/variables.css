@@ -1,0 +1,11 @@
+:root {
+	--color-black: black;
+	--color-white: white;
+	--color-dark: #202020;
+	--color-light: #d7d7d7;
+	--color-orange: #f5783a;
+	--color-navy: #020032;
+
+	--container-wrapper-width: 1200px;
+	--container-width: 1140px;
+}

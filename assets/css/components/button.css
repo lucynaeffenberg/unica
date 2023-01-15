@@ -1,0 +1,10 @@
+.btn {
+	text-decoration: none;
+	padding: 18px 30px;
+}
+
+.btn-orange {
+	background: var(--color-orange);
+	color: white;
+}
+
