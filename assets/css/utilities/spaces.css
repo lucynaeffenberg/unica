@@ -52,3 +52,16 @@
 	padding-bottom: 25px;
 }
 
+.pl-25 {
+	padding-left: 25px;
+}
+
+.pr-25 {
+	padding-right: 25px;
+}
+
+.py-50 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+

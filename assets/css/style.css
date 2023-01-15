@@ -15,8 +15,11 @@
 @import "utilities/rounded.css";
 @import "utilities/list.css";
 @import "utilities/rotate.css";
+@import "utilities/overflow.css";
 
 @import "components/navbar-menu.css";
 @import "components/button.css";
 @import "components/counter.css";
 @import "components/footer-menu.css";
+
+@import "overrides/overrides.css";

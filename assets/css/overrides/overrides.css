@@ -1,0 +1,7 @@
+button {
+	font-family: "Rubik", sans-serif;
+}
+
+*:focus-visible {
+	outline: none;
+}

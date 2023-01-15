@@ -6,6 +6,11 @@
 	background-color: var(--color-white);
 }
 
+.bg-light {
+	background-color: var(--color-light);
+
+}
+
 .bg-position-center {
 	background-position: center center;
 }

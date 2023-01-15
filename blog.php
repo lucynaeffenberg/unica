@@ -10,14 +10,16 @@
 	</head>
 	<body>
 		<header>
-			<?php include('partials/header.html') ?>
+			<?php include('partials/header-top.php') ?>
+			<?php include('partials/header-bottom.php') ?>
 		</header>
 		<main>
 			Blog
-			<?php include('partials/newsletter.html') ?>
+			<?php include('partials/newsletter.php') ?>
 		</main>
 		<footer>
-			<?php include('partials/footer.html') ?>
+			<?php include('partials/footer-top.php') ?>
+			<?php include('partials/footer-bottom.php') ?>
 		</footer>
 	</body>
 </html>
