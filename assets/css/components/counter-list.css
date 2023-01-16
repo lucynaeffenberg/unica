@@ -1,0 +1,39 @@
+.counter-list {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.counter-list li {
+	display: flex;
+	column-gap: 30px;
+}
+
+.counter-list li + li {
+	margin-top: 30px;
+}
+
+.counter-list li:before {
+	content: '';
+	font-size: 1.143rem;
+	width: 35px;
+	height: 35px;
+	color: var(--color-white);
+	background-color: var(--color-orange);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+	flex-shrink: 0;
+}
+
+.counter-list li:nth-child(1):before {
+	content: '1';
+}
+
+.counter-list li:nth-child(2):before {
+	content: '2';
+}
+
+.counter-list li:nth-child(3):before {
+	content: '3';
+}

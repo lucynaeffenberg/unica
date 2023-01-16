@@ -1,4 +1,4 @@
-<section class="bg-navy text-white pt-25 pb-25">
+<section class="bg-navy text-white py-50">
 	<div class="container">
 		<div class="footer-menu">
 			<div>

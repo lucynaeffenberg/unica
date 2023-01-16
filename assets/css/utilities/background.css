@@ -8,7 +8,10 @@
 
 .bg-light {
 	background-color: var(--color-light);
+}
 
+.bg-black-80 {
+	background-color: rgba(0, 0, 0, .8);
 }
 
 .bg-position-center {
