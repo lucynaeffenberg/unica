@@ -1,4 +1,4 @@
-<section class="container-wrapper pt-25 pb-25">
+<section class="pt-25 pb-25">
 	<div class="container">
 		<!-- Wiersz -->
 		<div class="d-flex justify-content-between align-items-center">

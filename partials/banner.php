@@ -1,6 +1,6 @@
 <section>
 	<div
-		class="container-wrapper ratio-2x1 bg-position-center bg-repeat-none bg-size-cover text-white d-flex align-items-center"
+		class="ratio-2x1 bg-position-center bg-repeat-none bg-size-cover text-white d-flex align-items-center"
 		style="background-image: url('assets/img/content/1.jpg.webp');"
 	>
 		<div class="flex-grow">

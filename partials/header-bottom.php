@@ -1,4 +1,4 @@
-<section class="container-wrapper bg-navy text-white">
+<section class="bg-navy text-white">
 	<div class="container">
 		<!-- Wiersz -->
 		<div class="d-flex justify-content-between align-items-center">
