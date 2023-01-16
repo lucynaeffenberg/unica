@@ -114,6 +114,10 @@ h6, .h6 {
 	font-weight: 500;
 }
 
+.fw-700 {
+	font-weight: 700;
+}
+
 
 .lh-none {
 	line-height: 1;
@@ -125,4 +129,9 @@ h6, .h6 {
 
 .lh-large {
 	line-height: 2;
+}
+
+
+.letter-spacing-2 {
+	letter-spacing: 0.143rem;
 }

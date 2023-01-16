@@ -6,6 +6,12 @@
 @import "layout/flex.css";
 @import "layout/flex-cols.css";
 
+@import "components/navbar-menu.css";
+@import "components/button.css";
+@import "components/counter.css";
+@import "components/footer-menu.css";
+@import "components/counter-list.css";
+
 @import "utilities/display.css";
 @import "utilities/text.css";
 @import "utilities/background.css";
@@ -17,12 +23,7 @@
 @import "utilities/list.css";
 @import "utilities/rotate.css";
 @import "utilities/overflow.css";
-
-@import "components/navbar-menu.css";
-@import "components/button.css";
-@import "components/counter.css";
-@import "components/footer-menu.css";
-@import "components/counter-list.css";
+@import "utilities/translate.css";
 
 
 @import "overrides/overrides.css";
