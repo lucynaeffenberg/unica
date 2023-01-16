@@ -14,8 +14,16 @@
 	align-items: center;
 }
 
+.align-items-start {
+	align-items: flex-start;
+}
+
 .flex-wrap {
 	flex-wrap: wrap;
+}
+
+.column-gap-15 {
+	column-gap: 15px;
 }
 
 .column-gap-30 {
