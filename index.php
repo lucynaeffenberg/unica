@@ -21,6 +21,7 @@
 			<?php include('partials/courses.php') ?>
 			<?php include('partials/numbers.php') ?>
 			<?php include('partials/events.php') ?>
+			<?php include('partials/tiles.php') ?>
 			<?php include('partials/newsletter.php') ?>
 		</main>
 		<footer>

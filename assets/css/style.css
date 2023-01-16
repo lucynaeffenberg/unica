@@ -24,6 +24,7 @@
 @import "utilities/rotate.css";
 @import "utilities/overflow.css";
 @import "utilities/translate.css";
+@import "utilities/images.css";
 
 
 @import "overrides/overrides.css";

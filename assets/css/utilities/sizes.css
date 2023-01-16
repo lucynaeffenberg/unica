@@ -2,6 +2,14 @@
 	width: 100%;
 }
 
+.w-half {
+	width: 50%;
+}
+
+.w-quarter {
+	width: 25%;
+}
+
 .w-14 {
 	width: 14px;
 }
