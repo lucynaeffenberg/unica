@@ -19,6 +19,7 @@
 			<?php include('partials/services.php') ?>
 			<?php include('partials/enrollment.php') ?>
 			<?php include('partials/courses.php') ?>
+			<?php include('partials/numbers.php') ?>
 			<?php include('partials/newsletter.php') ?>
 		</main>
 		<footer>
