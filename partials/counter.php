@@ -9,7 +9,7 @@
 						</span>
 					</div>
 					<div>
-						<h2 class="text-uppercase">Next course: Sales & Marketing Alignment</h2>
+						<h2 class="text-uppercase fs-20">Next course: Sales & Marketing Alignment</h2>
 						<p><img class="h-14 mr-5" src="assets/img/icons/icon-calendar.svg" alt=""> 07:00 PM - 09:00 PM</p>
 					</div>
 				</div>
