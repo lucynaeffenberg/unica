@@ -5,7 +5,7 @@
 			<div>
 				<blocquote class="fs-18">I want to let you know that I am very absolutely delighted with the course in every respect. It has been particularly pleasing for me, with an interest in seeing the application and good educational practice to school education. Learn a different approach that leads to better outcomes.</blocquote>
 				<p class="text-uppercase fs-18">Mr Peter Crough</p>
-				<p class="text-orange">Student's Parent</p>
+				<p class="text-orange mb-0">Student's Parent</p>
 			</div>
 		</div>
 	</div>

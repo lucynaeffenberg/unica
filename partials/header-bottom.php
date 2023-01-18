@@ -12,7 +12,7 @@
 						<a href="about.php">About us</a>
 					</li>
 					<li>
-						<a href="#!">Event</a>
+						<a href="event.php">Event</a>
 					</li>
 					<li>
 						<a href="courses.php">Courses</a>
@@ -21,7 +21,7 @@
 						<a href="blog.php">Blog</a>
 					</li>
 					<li>
-						<a href="#!">Contact</a>
+						<a href="contact.php">Contact</a>
 					</li>
 				</ul>
 			</div>

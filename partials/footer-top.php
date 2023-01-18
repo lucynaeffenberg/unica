@@ -20,7 +20,7 @@
 								<a class="text-white text-decoration-none text-hover-orange" href="#!">Services</a>
 							</li>
 							<li>
-								<a class="text-white text-decoration-none text-hover-orange" href="#!">Events</a>
+								<a class="text-white text-decoration-none text-hover-orange" href="event.php">Events</a>
 							</li>
 							<li>
 								<a class="text-white text-decoration-none text-hover-orange" href="#!">Features</a>
