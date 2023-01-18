@@ -14,7 +14,7 @@
 								<a class="text-white text-decoration-none text-hover-orange" href="index.php">Home</a>
 							</li>
 							<li>
-								<a class="text-white text-decoration-none text-hover-orange" href="#!">About Us</a>
+								<a class="text-white text-decoration-none text-hover-orange" href="about.php">About Us</a>
 							</li>
 							<li>
 								<a class="text-white text-decoration-none text-hover-orange" href="#!">Services</a>

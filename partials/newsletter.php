@@ -1,4 +1,4 @@
-<section class="bg-light py-50">
+<section class="bg-whitelight py-50">
 	<div class="container">
 		<div class="d-flex align-items-center justify-content-between">
 			<div>

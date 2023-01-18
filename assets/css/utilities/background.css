@@ -10,6 +10,10 @@
 	background-color: var(--color-light);
 }
 
+.bg-whitelight {
+	background-color: var(--color-whitelight);
+}
+
 .bg-black-80 {
 	background-color: rgba(0, 0, 0, .8);
 }
@@ -25,4 +29,6 @@
 .bg-size-cover {
 	background-size: cover;
 }
+
+
 
