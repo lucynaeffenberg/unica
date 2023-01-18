@@ -1,6 +1,6 @@
 <section class="py-50">
 	<div class="container">
-		<h2 class="text-center">Our Services</h2>
+		<h2 class="text-center fs-30 fw-500 text-uppercase mb-0 mt-0">Our Services</h2>
 		<p class="text-center">We provides the opportunity to prepare for life</p>
 		<div class="flex-cols flex-cols-3 row-gap-30 mt-65">
 			<div>

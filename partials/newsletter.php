@@ -2,8 +2,8 @@
 	<div class="container">
 		<div class="d-flex align-items-center justify-content-between">
 			<div>
-				<h2 class="text-uppercase">Newsletter</h2>
-				<p>Subscribe and get the latest news and useful tips, advice and best offer.</p>
+				<h2 class="text-uppercase fs-30 fw-500 mt-0">Newsletter</h2>
+				<p class="mb-0">Subscribe and get the latest news and useful tips, advice and best offer.</p>
 			</div>
 			<div>
 				<form action="">

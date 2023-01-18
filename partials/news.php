@@ -1,8 +1,8 @@
 <section class="py-50">
 	<div class="container">
-		<h2 class="text-center mt-0 text-uppercase fs-30 fw-500">Latest News</h2>
-		<p class="text-center mb-30">Get latest breaking news & top stories today</p>
-		<div class="flex-cols flex-cols-2 row-gap-30">
+		<h2 class="text-center mt-0 text-uppercase fs-30 fw-500 mb-0">Latest News</h2>
+		<p class="text-center">Get latest breaking news & top stories today</p>
+		<div class="flex-cols flex-cols-2 row-gap-30 mt-65">
 			<div class="flex-cols flex-cols-2 align-items-start">
 				<img class="ratio-4x3 img-cover" src="assets/img/content/1.jpg (4).webp" alt="">
 				<div>

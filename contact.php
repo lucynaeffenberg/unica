@@ -14,7 +14,30 @@
 			<?php include('partials/header-bottom.php') ?>
 		</header>
 		<main>
-			Contact
+			<section class="py-50">
+				<div class="container">
+					<div class="d-flex">
+						<div class="text-center bg-navy text-white p-50">
+							<h2 class="fs-24 fw-400 mb-0 mt-0">Address</h2>
+							<p class="mt-10">40 Baria Street 133/2, NewYork City, US</p>
+							<h2 class="fs-24 fw-400 mb-0">Phone</h2>
+							<p class="mt-10">(+88) 111 555 666</p>
+							<h2 class="fs-24 fw-400 mb-0">Email</h2>
+							<p class="mt-10">infodeercreative@gmail.com</p>
+							<h2 class="fs-24 fw-400 mb-0">Working time</h2>
+							<p class="mt-10 mb-0">Monday - Friday: 08 AM - 06 PM</p>
+						</div>
+						<iframe
+							src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d79024.36000923143!2d19.456769459196657!3d51.76026024935793!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spl!2spl!4v1674072832905!5m2!1spl!2spl"
+							class="d-block flex-grow border-0"
+							allowfullscreen=""
+							loading="lazy"
+							referrerpolicy="no-referrer-when-downgrade"
+						></iframe>
+					</div>
+				</div>
+			</section>
+			<?php include('partials/contact-form.php') ?>
 			<?php include('partials/newsletter.php') ?>
 		</main>
 		<footer>

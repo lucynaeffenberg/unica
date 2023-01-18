@@ -1,8 +1,8 @@
 <section class="py-50">
 	<div class="container">
-		<h2 class="text-uppercase text-center mb-0">Our Courses</h2>
+		<h2 class="text-uppercase text-center mb-0 fs-30 fw-500">Our Courses</h2>
 		<p class="text-center mt-10">Building a better world, one course at a time</p>
-		<div class="flex-cols flex-cols-3 row-gap-30">
+		<div class="flex-cols flex-cols-3 row-gap-30 mt-65">
 			<div>
 				<img class="d-block w-full" src="assets/img/content/1.jpg (1).webp" alt="">
 				<div class="d-flex justify-content-center translate-top-half">

@@ -25,6 +25,7 @@
 @import "utilities/overflow.css";
 @import "utilities/translate.css";
 @import "utilities/images.css";
+@import "utilities/form.css";
 
 
 @import "overrides/overrides.css";
