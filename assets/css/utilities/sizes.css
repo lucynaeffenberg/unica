@@ -75,3 +75,15 @@
 .h-200 {
 	height: 200px;
 }
+
+.w-300 {
+	width: 300px;
+}
+
+.w-min-300 {
+	min-width: 300px;
+}
+
+.h-300 {
+	height: 300px;
+}

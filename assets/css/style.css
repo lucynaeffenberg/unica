@@ -11,6 +11,7 @@
 @import "components/counter.css";
 @import "components/footer-menu.css";
 @import "components/counter-list.css";
+@import "components/tag.css";
 
 @import "utilities/display.css";
 @import "utilities/text.css";
@@ -26,6 +27,7 @@
 @import "utilities/translate.css";
 @import "utilities/images.css";
 @import "utilities/form.css";
+
 
 
 @import "overrides/overrides.css";
